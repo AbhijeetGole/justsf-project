@@ -31,4 +31,3 @@ jobs:
 
       - name: Delete Scratch Org
         run: sfdx force:org:delete -u CIOrg -p
-``
