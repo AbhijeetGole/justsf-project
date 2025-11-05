@@ -4,3 +4,8 @@ p{
     font-size: xx-large;
     font-style: bold;
 }
+
+h1{
+    color:aqua;
+    background-color: indigo;
+}
